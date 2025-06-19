@@ -74,14 +74,7 @@ pip install python-chess
 
 
 
-## 📌 Planned Features (Optional)
 
-* [ ] GUI version using `tkinter` or `pygame`
-* [ ] Multiplayer via LAN
-* [ ] AI opponent using Minimax or Stockfish
-
----
- downloadable `.zip` with all files
 - Upload instructions for GitHub
 
 Shall I proceed with the **GUI version** now?
