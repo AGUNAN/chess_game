@@ -3,8 +3,8 @@
 
 A complete command-line chess game built using **Python** and the `python-chess` library. Supports all major chess rules and features like castling, en passant, pawn promotion, undo, save/load, and check/checkmate detection.
 
+![screenshot](![image](https://github.com/user-attachments/assets/4ad61dbe-45ef-4c95-9727-a2b9d23158c1)
 
----
 
 ## 🔥 Features
 
